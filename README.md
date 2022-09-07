@@ -1,7 +1,7 @@
 # RedBrowsers
  Dumping Logins From All Chromium Based Browsers , Firfox and Internet Exploerer
 
-
+# Usage
 ```
 Usage :
    .\RedBrowers.exe arg0 arg1 arg2 ...
