@@ -18,4 +18,4 @@ Arguments :
 ```
 .\RedBrowers.exe /stdout
 ```
-![image](https://user-images.githubusercontent.com/113052354/188942337-53eadde0-a203-42ad-ae8d-4931e32ac747.png)
+![image](https://user-images.githubusercontent.com/113052354/188943279-b21edb22-3225-4f08-a982-da76a91d6087.png)
