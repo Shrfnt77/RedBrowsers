@@ -15,4 +15,4 @@ Arguments :
 
 ```
 # Example
-![image](https://user-images.githubusercontent.com/113052354/188942048-72763ae5-a3ae-444c-87d3-f48064db17f6.png)
+![image](https://user-images.githubusercontent.com/113052354/188942337-53eadde0-a203-42ad-ae8d-4931e32ac747.png)
