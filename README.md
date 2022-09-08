@@ -1,5 +1,5 @@
 # RedBrowsers
- Dumping Logins From All Chromium Based Browsers , Firfox and Internet Explorer
+Dumping Logins From All Chromium-Based Browsers , Firefox and Internet Explorer
 
 # Usage
 ```
